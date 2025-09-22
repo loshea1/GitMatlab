@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="170520319" file="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp\Git&amp;Matlab.prj" location="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp" name="Git&amp;Matlab" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2293844504" file="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp\Git&amp;Matlab.prj" location="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp" name="Git&amp;Matlab" target="target.mlapps" target-name="Package App">
     <param.appname>Git&amp;Matlab</param.appname>
     <param.authnamewatermark>Leah O'Shea</param.authnamewatermark>
     <param.email>loshea@ric.org</param.email>
@@ -11,7 +11,7 @@
 
 You are able to clone a repository to the current folder, connect and authorize your GitHub account, or link the current folder to a remote repository in your GitHub.</param.description>
     <param.screenshot>${PROJECT_ROOT}\git&amp;mat.png</param.screenshot>
-    <param.version>2.0</param.version>
+    <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
     <param.products.version />
@@ -24,6 +24,7 @@ You are able to clone a repository to the current folder, connect and authorize 
       <param.company />
       <param.icon />
       <param.icons />
+      <param.version />
       <param.products.name />
       <param.products.id />
       <param.products.version />
