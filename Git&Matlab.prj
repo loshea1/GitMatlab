@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3585076057" file="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp\Git&amp;Matlab.prj" location="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp" name="Git&amp;Matlab" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="170520319" file="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp\Git&amp;Matlab.prj" location="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp" name="Git&amp;Matlab" target="target.mlapps" target-name="Package App">
     <param.appname>Git&amp;Matlab</param.appname>
     <param.authnamewatermark>Leah O'Shea</param.authnamewatermark>
     <param.email>loshea@ric.org</param.email>
@@ -34,7 +34,9 @@ You are able to clone a repository to the current folder, connect and authorize 
       <file>${PROJECT_ROOT}\GitMatlab.mlapp</file>
     </fileset.main>
     <fileset.depfun />
-    <fileset.resources />
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\git&amp;mat.png</file>
+    </fileset.resources>
     <fileset.package />
     <build-deliverables>
       <file location="\\fs2.smpp.local\smulab2\Leah Summer 2021\Github" name="GitMatApp" optional="false">\\fs2.smpp.local\smulab2\Leah Summer 2021\Github\GitMatApp</file>
