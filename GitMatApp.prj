@@ -9,7 +9,7 @@
 
 After necessary downloads are installed, you can add your current working folder to Github, connect and authorize your GitHub account, or clone a remote repository from GitHub to the current folder.</param.description>
     <param.screenshot>${PROJECT_ROOT}\git&amp;mat.png</param.screenshot>
-    <param.version>1.0</param.version>
+    <param.version>1.0.1</param.version>
     <param.output>${PROJECT_ROOT}\GitMatApp.mltbx</param.output>
     <param.products.name />
     <param.products.id />
@@ -51,7 +51,6 @@ Thumbs.db
       <param.authnamewatermark />
       <param.email />
       <param.company />
-      <param.version />
       <param.output />
       <param.products.name />
       <param.products.id />
